@@ -1,0 +1,4 @@
+node_modules/
+.DS_st
+.env
+npm-debug.log
